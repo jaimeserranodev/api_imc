@@ -1,0 +1,17 @@
+{
+    "name": "jaime/velites1",
+    "autoload": {
+        "psr-4": {
+            "Jaime\\Velites1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaime",
+            "email": "jaime.serrano.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
